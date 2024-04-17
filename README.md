@@ -1,4 +1,4 @@
-<h1>Jogo da Forca</h1>
+<h1>Index de Jogos</h1>
 
 <h2>🏷️ Sobre</h2>
 <p>Projeto feito no curso da Alura "Python: avançando na linguagem".</p>
